@@ -1,7 +1,7 @@
 Ausreden-Finder
 ===============
 
-Dieses einfache Python-CLI-Programm hilft euch, die passendste Ausrede für jede Situation zu finden. Es verwendet Text-Embeddings und Nearest-Neighbor-Suche, um die beste Ausrede aus einer Liste auszuwählen.
+Dieses einfache 🐍 Python-CLI-Programm hilft euch, die passendste Ausrede für jede Situation zu finden. Es verwendet Text-Embeddings und Nearest-Neighbor-Suche, um die beste Ausrede aus einer Liste auszuwählen.
 
 Voraussetzungen
 ---------------
